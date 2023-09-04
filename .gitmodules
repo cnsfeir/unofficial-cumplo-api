@@ -1,0 +1,27 @@
+[submodule "services/cumplo-common"]
+	path = services/cumplo-common
+	url = https://github.com/cnsfeir/cumplo-common.git
+[submodule "services/cumplo-spotter"]
+	path = services/cumplo-spotter
+	url = https://github.com/cnsfeir/cumplo-spotter.git
+[submodule "services/cumplo-herald"]
+	path = services/cumplo-herald
+	url = https://github.com/cnsfeir/cumplo-herald.git
+[submodule "services/cumplo-tailor"]
+	path = services/cumplo-tailor
+	url = https://github.com/cnsfeir/cumplo-tailor.git
+[submodule "services/cumplo-authenticator"]
+	path = services/cumplo-authenticator
+	url = https://github.com/cnsfeir/cumplo-authenticator.git
+[submodule "services/cumplo-accountant"]
+	path = services/cumplo-accountant
+	url = https://github.com/cnsfeir/cumplo-accountant.git
+[submodule "services/cumplo-investor"]
+	path = services/cumplo-investor
+	url = https://github.com/cnsfeir/cumplo-investor.git
+[submodule "services/cumplo-historian"]
+	path = services/cumplo-historian
+	url = https://github.com/cnsfeir/cumplo-historian.git
+[submodule "services/cumplo-prophet"]
+	path = services/cumplo-prophet
+	url = https://github.com/cnsfeir/cumplo-prophet.git
